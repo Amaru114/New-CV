@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <style>
-      .centered-text {
-          text-align:center;
-      }
-    </style>
+  <head> 
     <title>
       
-        Welcome to my poorly made CV</title>
-        
+        Welcome to my poorly made CV</title> 
   </head>
   <style>
     img {
